@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\bin\Debug\ComunicacionPuertosCom.exe.config
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\bin\Debug\ComunicacionPuertosCom.exe
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\bin\Debug\ComunicacionPuertosCom.pdb
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.Form1.resources
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.Properties.Resources.resources
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.csproj.GenerateResource.cache
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.exe
+C:\Users\Franco\source\repos\ComunicacionPuertosCom\ComunicacionPuertosCom\obj\Debug\ComunicacionPuertosCom.pdb
